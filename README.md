@@ -19,7 +19,13 @@ JavaScript e HTML
 
 JWT para autenticação
 
-:alerta2: Atenção
+📦 Instalação
+
+Clone este repositório
+
+Importe o SDK no seu projeto
+
+✅ Atenção
 
 Não esqueceça de usar seus tokens de autenticação. Você pode obtelo atravaes da sua conta.
 
