@@ -27,6 +27,6 @@ Importe o SDK no seu projeto
 
 ✅ Atenção
 
-Não esqueceça de usar seus tokens de autenticação. Você pode obtelo atravaes da sua conta.
+Não esqueceça de usar seus tokens de autenticação e colocar sua politica de verificação também. Você pode obtê-la através da sua conta.
 
 E sempre mantenham o SDK atualizado para a ultima versão.
