@@ -1,5 +1,5 @@
 # Projeto_SMA
-Este projeto foi desenvolvido para facilitar os testes de integração so Smart Auth em aplicações web, oferecendo uma camada adicional de segurança com suporte a múltiplos métodos de verificação, reconhecimento facial (liveness), entre outros.
+Este projeto foi desenvolvido para facilitar os testes de integração do Smart Auth em aplicações web, oferecendo uma camada adicional de segurança com suporte a múltiplos métodos de verificação, reconhecimento facial (liveness), entre outros.
 
 🚀 Funcionalidades
 
