@@ -13,6 +13,7 @@ Gerenciamento de sessão segura
 Validação de segurança em tempo real
 
 🧩 Tecnologias utilizadas
+
 JavaScript e HTML
 
 JWT para autenticação
